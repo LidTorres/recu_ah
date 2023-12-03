@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "656bd0ac548a1a14d27ec825"
+  },
+  "name": "Assassin's Creed Mirage",
+  "genre": "Acción-aventura",
+  "desa": "Bugisoft",
+  "edition": 2023
+},
+{
+  "_id": {
+    "$oid": "656bd0cc548a1a14d27ec827"
+  },
+  "name": "Life Is Strange: True Colors",
+  "genre": "Aventura gráfica",
+  "desa": "Deck Nine",
+  "edition": 2021
+},
+{
+  "_id": {
+    "$oid": "656bd10a548a1a14d27ec829"
+  },
+  "name": "The Last of Us Part II",
+  "genre": "Terror",
+  "desa": "Naughty Dog",
+  "edition": 2020
+},
+{
+  "_id": {
+    "$oid": "656bd11a548a1a14d27ec82b"
+  },
+  "name": "Stray",
+  "genre": "Aventura",
+  "desa": "BlueTwelve Studio",
+  "edition": 2022
+},
+{
+  "_id": {
+    "$oid": "656bd133548a1a14d27ec82d"
+  },
+  "name": "Hogwarts Legacy",
+  "genre": "videojuego de rol",
+  "desa": "Avalanche Software",
+  "edition": 2023
+}]

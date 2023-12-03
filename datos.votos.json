@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "656bd4eb548a1a14d27ec843"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Assassin's Creed Mirage",
+  "judge_name": "Ellie"
+},
+{
+  "_id": {
+    "$oid": "656bd64f548a1a14d27ec84b"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Life Is Strange: True Colors",
+  "judge_name": "Alex"
+},
+{
+  "_id": {
+    "$oid": "656bd659548a1a14d27ec84d"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Hogwarts Legacy",
+  "judge_name": "Ezio"
+},
+{
+  "_id": {
+    "$oid": "656bd669548a1a14d27ec84f"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Stray",
+  "judge_name": "Joel"
+},
+{
+  "_id": {
+    "$oid": "656bd676548a1a14d27ec851"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "The Last of Us Part II",
+  "judge_name": "Harry"
+},
+{
+  "_id": {
+    "$oid": "656bdc78d0eb44e9396a4c8f"
+  },
+  "Jugabilidad": 7,
+  "Arte": 6,
+  "Sonido": 4,
+  "Tematica": 4,
+  "game_name": "Life Is Strange: True Colors",
+  "judge_name": "Ellie"
+},
+{
+  "_id": {
+    "$oid": "656bdc82d0eb44e9396a4c91"
+  },
+  "Jugabilidad": 6,
+  "Arte": 5,
+  "Sonido": 8,
+  "Tematica": 3,
+  "game_name": "Hogwarts Legacy",
+  "judge_name": "Ellie"
+},
+{
+  "_id": {
+    "$oid": "656bdc8dd0eb44e9396a4c93"
+  },
+  "Jugabilidad": 4,
+  "Arte": 9,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "The Last of Us Part II",
+  "judge_name": "Ellie"
+},
+{
+  "_id": {
+    "$oid": "656bdc97d0eb44e9396a4c95"
+  },
+  "Jugabilidad": 4,
+  "Arte": 8,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Stray",
+  "judge_name": "Ellie"
+},
+{
+  "_id": {
+    "$oid": "656bde10d0eb44e9396a4c97"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 4,
+  "Tematica": 4,
+  "game_name": "Assassin's Creed Mirage",
+  "judge_name": "Alex"
+},
+{
+  "_id": {
+    "$oid": "656bde1bd0eb44e9396a4c99"
+  },
+  "Jugabilidad": 4,
+  "Arte": 8,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Hogwarts Legacy",
+  "judge_name": "Alex"
+},
+{
+  "_id": {
+    "$oid": "656bde26d0eb44e9396a4c9b"
+  },
+  "Jugabilidad": 4,
+  "Arte": 7,
+  "Sonido": 6,
+  "Tematica": 5,
+  "game_name": "Stray",
+  "judge_name": "Alex"
+},
+{
+  "_id": {
+    "$oid": "656bde2fd0eb44e9396a4c9d"
+  },
+  "Jugabilidad": 4,
+  "Arte": 8,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "The Last of Us Part II",
+  "judge_name": "Alex"
+},
+{
+  "_id": {
+    "$oid": "656bde80d0eb44e9396a4c9f"
+  },
+  "Jugabilidad": 8,
+  "Arte": 5,
+  "Sonido": 5,
+  "Tematica": 3,
+  "game_name": "The Last of Us Part II",
+  "judge_name": "Ezio"
+},
+{
+  "_id": {
+    "$oid": "656bde94d0eb44e9396a4ca1"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 5,
+  "game_name": "Stray",
+  "judge_name": "Ezio"
+},
+{
+  "_id": {
+    "$oid": "656bde9ed0eb44e9396a4ca3"
+  },
+  "Jugabilidad": 6,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Life Is Strange: True Colors",
+  "judge_name": "Ezio"
+},
+{
+  "_id": {
+    "$oid": "656bdea9d0eb44e9396a4ca5"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 9,
+  "Tematica": 3,
+  "game_name": "Assassin's Creed Mirage",
+  "judge_name": "Ezio"
+},
+{
+  "_id": {
+    "$oid": "656bdf69d0eb44e9396a4ca7"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 5,
+  "Tematica": 7,
+  "game_name": "The Last of Us Part II",
+  "judge_name": "Joel"
+},
+{
+  "_id": {
+    "$oid": "656bdf75d0eb44e9396a4ca9"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 9,
+  "game_name": "Hogwarts Legacy",
+  "judge_name": "Joel"
+},
+{
+  "_id": {
+    "$oid": "656bdf88d0eb44e9396a4cab"
+  },
+  "Jugabilidad": 4,
+  "Arte": 3,
+  "Sonido": 6,
+  "Tematica": 8,
+  "game_name": "Life Is Strange: True Colors",
+  "judge_name": "Joel"
+},
+{
+  "_id": {
+    "$oid": "656bdfb2d0eb44e9396a4cad"
+  },
+  "Jugabilidad": 4,
+  "Arte": 6,
+  "Sonido": 8,
+  "Tematica": 3,
+  "game_name": "Assassin's Creed Mirage",
+  "judge_name": "Joel"
+},
+{
+  "_id": {
+    "$oid": "656bdff7d0eb44e9396a4caf"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Stray",
+  "judge_name": "Harry"
+},
+{
+  "_id": {
+    "$oid": "656be007d0eb44e9396a4cb1"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Hogwarts Legacy",
+  "judge_name": "Harry"
+},
+{
+  "_id": {
+    "$oid": "656be012d0eb44e9396a4cb3"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Life Is Strange: True Colors",
+  "judge_name": "Harry"
+},
+{
+  "_id": {
+    "$oid": "656be01dd0eb44e9396a4cb5"
+  },
+  "Jugabilidad": 4,
+  "Arte": 5,
+  "Sonido": 6,
+  "Tematica": 3,
+  "game_name": "Assassin's Creed Mirage",
+  "judge_name": "Harry"
+}]
